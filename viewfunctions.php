@@ -65,7 +65,7 @@ function showWebHeader()
               <li><a href="tienda.php">TIENDA ONLINE</a>
                 
               </li>
-              <li><a href="profile.html">CONTACTO</a></li>
+              <li><a href="contact.php">CONTACTO</a></li>
             </ul>
           </nav>
         </div>

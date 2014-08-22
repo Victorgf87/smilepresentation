@@ -21,7 +21,7 @@ showHead();
 </div>
 <!--pre loader end--> 
 <!--Color picker-->
-<!--< ? p h p showColorPicker();?>-->
+<?php showColorPicker();?>
 <!--Fin Color picker-->
 <!--header start-->
 <?php showWebHeader(); ?>
